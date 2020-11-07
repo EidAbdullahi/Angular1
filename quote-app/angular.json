@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quote-app"
+    }
+  },
+  "defaultProject": "quote-app",
+  "cli": {
+    "analytics": "b3e5102a-9dd3-4000-b348-702224b18f9b"
+  }
 }
